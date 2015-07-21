@@ -5,9 +5,22 @@
     <description>A blog about my favorite web conferences.</description>
     <link>http://webconfs.me/webconfs/</link>
     <atom:link href="http://webconfs.me/webconfs/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jul 2015 21:09:13 -0400</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2015 21:09:13 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2015 12:25:01 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2015 12:25:01 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://webconfs.me/webconfs/treehouse-meetups</link>
+        <guid isPermaLink="true">http://webconfs.me/webconfs/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
     
       <item>
         <title>Camp Sass</title>
